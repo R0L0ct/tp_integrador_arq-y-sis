@@ -8,5 +8,5 @@ La organización de los archivos en el directorio es la siguiente:
 
 ```text
 .
-├── PDF tp integrador    # Documentación e informe técnico del TP. Dentro del mismo se incluyen las capturas de pantalla.
+├── TP_Integrador_ArqYSis.pdf    # Documentación e informe técnico del TP. Dentro del mismo se incluyen las capturas de pantalla.
 └── main.py              # Script principal con el código de la calculadora
