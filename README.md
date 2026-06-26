@@ -47,3 +47,7 @@ Ingrese el 5 número: 50
 
 El promedio de los 5 números ingresados es: 30.0
 ```
+
+## Enlace Video 
+
+https://drive.google.com/file/d/1NdMduISOYSYri_9BcHmjc1wYZ9ph-GWa/view?usp=drive_link
